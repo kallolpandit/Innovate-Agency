@@ -18,7 +18,7 @@ export const Navbar = () => {
                 >
                   Home <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-full p-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-28 p-5 rounded-lg">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       Home 1
@@ -53,7 +53,7 @@ export const Navbar = () => {
                 >
                   About <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-full p-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-28 p-5 rounded-lg">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       About 1
@@ -88,7 +88,7 @@ export const Navbar = () => {
                 >
                   Service <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 w-full p-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 w-32 p-5 rounded-lg">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       Service 1
@@ -123,7 +123,7 @@ export const Navbar = () => {
                 >
                   Portfolio <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-full p-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-36 p-5 rounded-lg">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       Portfolio 1
@@ -158,7 +158,7 @@ export const Navbar = () => {
                 >
                   Price <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 w-full text-center py-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 w-28 text-center py-5 rounded-lg">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       Price 1
@@ -193,7 +193,7 @@ export const Navbar = () => {
                 >
                   Blog <FaChevronDown />
                 </a>
-                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-full p-5 rounded-lg">
+                <ul className="absolute top-full left-0 hidden group-hover:block transition-all bg-orange-100 text-center w-28 p-5 rounded-lg ">
                   <li>
                     <a href="" className="hover:text-brand transition-all">
                       Blog 1

@@ -27,6 +27,35 @@ export const Banner = () => {
             </a>
           </div>
         </div>
+        <div className="flex gap-7 mt-32 flex-col lg:flex-row">
+          <div className="bg-white py-7 px-5 w-1/3">
+            <img src="images/grow.png" alt="grow" />
+            <h3 className="text-primary text-2xl font-poppins font-semibold capitalize pt-8 pb-4">
+              Grow your business
+            </h3>
+            <p className="text-secondary text-lg font-nunito font-normal capitalize">
+              Nam libero tempore, cum soluta nobis est eligendi optio cumque
+            </p>
+          </div>
+          <div className="bg-white py-7 px-5 w-1/3">
+            <img src="images/marketing.png" alt="marketing" />
+            <h3 className="text-primary text-2xl font-poppins font-semibold capitalize pt-8 pb-4">
+              Digital marketing
+            </h3>
+            <p className="text-secondary text-lg font-nunito font-normal capitalize">
+              Nam libero tempore, cum soluta nobis est eligendi optio cumque
+            </p>
+          </div>
+          <div className="bg-white py-7 px-5 w-1/3">
+            <img src="images/seo.png" alt="seo" />
+            <h3 className="text-primary text-2xl font-poppins font-semibold capitalize pt-8 pb-4">
+              Search engine optimization
+            </h3>
+            <p className="text-secondary text-lg font-nunito font-normal capitalize">
+              Nam libero tempore, cum soluta nobis est eligendi optio cumque
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   );

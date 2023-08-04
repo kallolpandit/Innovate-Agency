@@ -23,7 +23,7 @@ export const Banner = () => {
               href=""
               className="inline-block text-lg text-brand font-nunito font-semibold bg-transparent border border-brand py-3 px-7 rounded-2xl"
             >
-              showcase
+              Showcase
             </a>
           </div>
         </div>

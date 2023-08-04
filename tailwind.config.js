@@ -12,6 +12,7 @@ export default {
         banner: "url('/images/banner.png')",
         works: "url('/images/works-bg.png')",
         counting: "url('/images/counting-bg.png')",
+        project: "url('/images/project-bg.png')",
       },
     },
     container: {

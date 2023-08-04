@@ -2,7 +2,7 @@ import React from "react";
 
 export const Works = () => {
   return (
-    <section className="bg-works py-28">
+    <section className="bg-works py-28 bg-no-repeat bg-cover">
       <div className="container">
         <div className="flex justify-between items-center">
           <div>

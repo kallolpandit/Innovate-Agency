@@ -2,7 +2,7 @@ import React from "react";
 
 export const Footer = () => {
   return (
-    <footer className="pt-28 pb-14">
+    <footer className="pt-28 pb-10">
       <div className="container">
         <div className="flex gap-9  flex-col lg:flex-row">
           <div className="w-2/5">

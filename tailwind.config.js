@@ -10,6 +10,7 @@ export default {
       },
       backgroundImage: {
         banner: "url('/images/banner.png')",
+        works: "url('/images/works.png')",
       },
     },
     container: {

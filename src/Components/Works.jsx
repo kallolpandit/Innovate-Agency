@@ -22,6 +22,68 @@ export const Works = () => {
             </a>
           </div>
         </div>
+        <div className="pt-14">
+          <div className="flex gap-5">
+            <div className="w-2/5">
+              <img src="images/mobile-app.jpg" alt="mobile-app" />
+              <div className=" bg-gray-100 pl-7">
+                <h5 className="text-2xl text-primary font-poppins font-semibold pt-7">
+                  Mobile App
+                </h5>
+                <a
+                  href=""
+                  className="inline-block text-lg text-brand font-nunito font-medium pt-3 pb-5"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+            <div className="w-3/5">
+              <img src="images/ecomerce.jpg" alt="mobile-app" />
+              <div className=" bg-gray-100 pl-7">
+                <h5 className="text-2xl text-primary font-poppins font-semibold pt-7">
+                  ECommerce Solution
+                </h5>
+                <a
+                  href=""
+                  className="inline-block text-lg text-brand font-nunito font-medium pt-3 pb-5"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="flex gap-5 pt-8">
+            <div className="w-3/5 group">
+              <img src="images/ecomerce.jpg" alt="mobile-app" />
+              <div className=" bg-gray-100 pl-7">
+                <h5 className="text-2xl text-primary font-poppins font-semibold pt-7">
+                  Mobile App
+                </h5>
+                <a
+                  href=""
+                  className="inline-block text-lg text-brand font-nunito font-medium pt-3 pb-5"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+            <div className="w-2/5">
+              <img src="images/mobile-app.jpg" alt="mobile-app" />
+              <div className=" bg-gray-100 pl-7">
+                <h5 className="text-2xl text-primary font-poppins font-semibold pt-7">
+                  Mobile App
+                </h5>
+                <a
+                  href=""
+                  className="inline-block text-lg text-brand font-nunito font-medium pt-3 pb-5"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
